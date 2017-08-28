@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a8be88039745d03b47c306c0ddb12db5"
+build_time: [546318751, 832128000]
+inputs:
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/AddPetsViewController.swift": [542226106, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/AppDelegate.swift": [542168262, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/PetsViewController.swift": [542226337, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/MasterViewController.swift": [542854845, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/DetailViewController.swift": [542162882, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/AddingOwnerViewController.swift": [542226092, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/PetStore/Data.swift": [543439536, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/Build/Intermediates/PetStore.build/Debug-iphonesimulator/PetStore.build/DerivedSources/CoreDataGenerated/PetStore/Event+CoreDataClass.swift": [546318751, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/Build/Intermediates/PetStore.build/Debug-iphonesimulator/PetStore.build/DerivedSources/CoreDataGenerated/PetStore/Event+CoreDataProperties.swift": [546318751, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/PetStore/Build/Intermediates/PetStore.build/Debug-iphonesimulator/PetStore.build/DerivedSources/CoreDataGenerated/PetStore/PetStore+CoreDataModel.swift": [546318751, 0]

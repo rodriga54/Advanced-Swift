@@ -1,0 +1,293 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewControllerTableViewCell"
+provides-nominal:
+- "C10XML_Parser27ViewControllerTableViewCell"
+provides-member:
+- ["C10XML_Parser27ViewControllerTableViewCell", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "summary"
+- "MyImage"
+- "setSelected"
+- "titles"
+- "season"
+depends-top-level:
+- "ViewControllerTableViewCell"
+- "UIImageView"
+- "UILabel"
+- "Bool"
+- "UITableViewCell"
+depends-member:
+- ["Ps9AnyObject", "MyImage"]
+- ["Ps9AnyObject", "awakeFromNib"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "season"]
+- ["Ps9AnyObject", "setSelected"]
+- ["Ps9AnyObject", "summary"]
+- ["Ps9AnyObject", "titles"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- ["PSo15CALayerDelegate", "MyImage"]
+- ["PSo15CALayerDelegate", "awakeFromNib"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "season"]
+- ["PSo15CALayerDelegate", "setSelected"]
+- ["PSo15CALayerDelegate", "summary"]
+- ["PSo15CALayerDelegate", "titles"]
+- ["PSo15CALayerDelegate", ""]
+- ["Ps7CVarArg", "MyImage"]
+- ["Ps7CVarArg", "awakeFromNib"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "season"]
+- ["Ps7CVarArg", "setSelected"]
+- ["Ps7CVarArg", "summary"]
+- ["Ps7CVarArg", "titles"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "MyImage"]
+- ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "season"]
+- ["Ps28CustomDebugStringConvertible", "setSelected"]
+- ["Ps28CustomDebugStringConvertible", "summary"]
+- ["Ps28CustomDebugStringConvertible", "titles"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "MyImage"]
+- ["Ps23CustomStringConvertible", "awakeFromNib"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "season"]
+- ["Ps23CustomStringConvertible", "setSelected"]
+- ["Ps23CustomStringConvertible", "summary"]
+- ["Ps23CustomStringConvertible", "titles"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "MyImage"]
+- ["Ps9Equatable", "awakeFromNib"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "season"]
+- ["Ps9Equatable", "setSelected"]
+- ["Ps9Equatable", "summary"]
+- ["Ps9Equatable", "titles"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "MyImage"]
+- ["Ps8Hashable", "awakeFromNib"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "season"]
+- ["Ps8Hashable", "setSelected"]
+- ["Ps8Hashable", "summary"]
+- ["Ps8Hashable", "titles"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "MyImage"]
+- ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "season"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", "summary"]
+- ["PSo8NSCoding", "titles"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "MyImage"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "season"]
+- ["CSo8NSObject", "setSelected"]
+- ["CSo8NSObject", "summary"]
+- ["CSo8NSObject", "titles"]
+- ["PSo16NSObjectProtocol", "MyImage"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "season"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", "summary"]
+- ["PSo16NSObjectProtocol", "titles"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["PSo29UIAccessibilityIdentification", "MyImage"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "season"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", "summary"]
+- ["PSo29UIAccessibilityIdentification", "titles"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "MyImage"]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "season"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", "summary"]
+- ["PSo12UIAppearance", "titles"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "MyImage"]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "season"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", "summary"]
+- ["PSo21UIAppearanceContainer", "titles"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "MyImage"]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "season"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", "summary"]
+- ["PSo17UICoordinateSpace", "titles"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "MyImage"]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "season"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", "summary"]
+- ["PSo13UIDynamicItem", "titles"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "MyImage"]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "season"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- ["PSo18UIFocusEnvironment", "summary"]
+- ["PSo18UIFocusEnvironment", "titles"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo11UIFocusItem", "MyImage"]
+- ["PSo11UIFocusItem", "awakeFromNib"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "season"]
+- ["PSo11UIFocusItem", "setSelected"]
+- ["PSo11UIFocusItem", "summary"]
+- ["PSo11UIFocusItem", "titles"]
+- ["PSo11UIFocusItem", ""]
+- ["PSo27UIGestureRecognizerDelegate", "MyImage"]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "season"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", "summary"]
+- ["PSo27UIGestureRecognizerDelegate", "titles"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "MyImage"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "season"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo11UIResponder", "summary"]
+- ["CSo11UIResponder", "titles"]
+- ["PSo30UIResponderStandardEditActions", "MyImage"]
+- ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "season"]
+- ["PSo30UIResponderStandardEditActions", "setSelected"]
+- ["PSo30UIResponderStandardEditActions", "summary"]
+- ["PSo30UIResponderStandardEditActions", "titles"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "MyImage"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "deinit"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "season"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", "summary"]
+- ["CSo15UITableViewCell", "titles"]
+- ["CSo15UITableViewCell", ""]
+- ["OSC20UITableViewCellStyle", "deinit"]
+- ["PSo18UITraitEnvironment", "MyImage"]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "season"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", "summary"]
+- ["PSo18UITraitEnvironment", "titles"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "MyImage"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "season"]
+- ["CSo6UIView", "setSelected"]
+- ["CSo6UIView", "summary"]
+- ["CSo6UIView", "titles"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "Bool"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "MyImage"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "UIImageView"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "UILabel"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "awakeFromNib"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "deinit"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "init"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "season"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "setSelected"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "summary"]
+- ["C10XML_Parser27ViewControllerTableViewCell", "titles"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "MyImage"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "awakeFromNib"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "season"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "setSelected"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "summary"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "titles"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- ["Ps9_Hashable", "MyImage"]
+- ["Ps9_Hashable", "awakeFromNib"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "season"]
+- ["Ps9_Hashable", "setSelected"]
+- ["Ps9_Hashable", "summary"]
+- ["Ps9_Hashable", "titles"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo15UITableViewCell"
+- "OSC20UITableViewCellStyle"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "C10XML_Parser27ViewControllerTableViewCell"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "45e906691b93bdebc06f89052e6fb133"

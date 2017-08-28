@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2778f32aa59ae8aa344621faef621952"
+build_time: [541015693, 557053000]
+inputs:
+  "/Users/aberodriguez/Desktop/CSCI428/XML_Parser/XML_Parser/ViewControllerTableViewCell.swift": [540581605, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/XML_Parser/XML_Parser/ViewController.swift": [540586392, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/XML_Parser/XML_Parser/CustomClass.swift": [540582875, 0]
+  "/Users/aberodriguez/Desktop/CSCI428/XML_Parser/XML_Parser/AppDelegate.swift": [539922213, 0]
